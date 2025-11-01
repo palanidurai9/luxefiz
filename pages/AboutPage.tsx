@@ -32,7 +32,7 @@ const AboutPage: React.FC = () => {
                     </div>
                     <div>
                         <h2 className="text-4xl font-playfair font-bold mb-4">Meet Our Founder</h2>
-                        <h3 className="text-6xl text-brand-purple font-semibold mb-6">Palani Durai (RPD)</h3>
+                        <h3 className="text-4xl text-brand-purple font-semibold mb-6">Palani Durai (RPD)</h3>
                         <p className="text-lg text-gray-700 leading-relaxed mb-4">
                             A student entrepreneur with a passion for technology, design, and brand strategy — Palani Durai founded Luxefiz from Tamil Nadu with <b>one vision in mind: to make premium digital services accessible for every business.</b>
                         </p>
