@@ -12,7 +12,7 @@ const NavLinks: React.FC<{ className?: string, onLinkClick?: () => void }> = ({ 
       <NavLink to="/portfolio" onClick={onLinkClick} className={({ isActive }) => `px-4 py-2 rounded-md transition-colors duration-300 ${isActive ? 'text-brand-purple font-bold' : 'hover:bg-purple-50'}`}>Portfolio</NavLink>
       <NavLink to="/testimonials" onClick={onLinkClick} className={({ isActive }) => `px-4 py-2 rounded-md transition-colors duration-300 ${isActive ? 'text-brand-purple font-bold' : 'hover:bg-purple-50'}`}>Testimonials</NavLink>
       <NavLink to="/process" onClick={onLinkClick} className={({ isActive }) => `px-4 py-2 rounded-md transition-colors duration-300 ${isActive ? 'text-brand-purple font-bold' : 'hover:bg-purple-50'}`}>Process</NavLink>
-      <NavLink to="/contact" onClick={onLinkClick} className="ml-0 md:ml-4 mt-4 md:mt-0 px-6 py-2 bg-brand-purple text-white font-semibold rounded-full hover:bg-brand-pink transition-colors duration-300">Contact Us</NavLink>
+      <NavLink to="/contact" onClick={onLinkClick} className="ml-0 md:ml-4 mt-4 md:mt-0 px-6 py-2 bg-brand-purple text-white font-semibold rounded-full hover:bg-brand-pink transition-colors duration-300 whitespace-nowrap">Contact Us</NavLink>
     </nav>
 );
 
