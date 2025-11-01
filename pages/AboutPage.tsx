@@ -25,7 +25,7 @@ const AboutPage: React.FC = () => {
                 <section className="grid md:grid-cols-2 gap-12 items-center mb-20">
                     <div>
                         <img 
-                            src="public/image/meeee.png" 
+                            src="/image/meeee.png" 
                             alt="Palani Durai (RPD), Founder of Luxefiz" 
                             className="rounded-3xl shadow-2xl w-full h-auto object-cover"
                         />
