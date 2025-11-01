@@ -85,7 +85,7 @@ const HomePage: React.FC = () => {
       {/* Card 1 */}
       <div className="bg-white shadow-md rounded-2xl p-2 flex justify-center items-center w-40 h-28 hover:shadow-xl transition-all duration-300">
         <img
-          src="image/pklogo.png"
+          src="public/image/pklogo.png"
           alt="Client Logo 1"
           className="h-12 object-contain"
         />
@@ -94,7 +94,7 @@ const HomePage: React.FC = () => {
       {/* Card 2 */}
       <div className="bg-white shadow-md rounded-2xl p-0.1 flex justify-center items-center w-40 h-28 hover:shadow-xl transition-all duration-300">
         <img
-          src="image/skrstalogo.png"
+          src="public/image/skrstalogo.png"
           alt="Client Logo 2"
           className="h-12 object-contain"
         />
@@ -103,7 +103,7 @@ const HomePage: React.FC = () => {
       {/* Card 3 */}
       <div className="bg-white shadow-md rounded-2xl p-0.5 flex justify-center items-center w-40 h-28 hover:shadow-xl transition-all duration-300">
         <img
-          src="image/svetlogo.png"
+          src="public/image/svetlogo.png"
           alt="Client Logo 3"
           className="h-12 object-contain"
         />
@@ -112,7 +112,7 @@ const HomePage: React.FC = () => {
       {/* Card 4 */}
       <div className="bg-white shadow-md rounded-2xl p-0.3 flex justify-center items-center w-40 h-28 hover:shadow-xl transition-all duration-300">
         <img
-          src="image/spllogo.png"
+          src="public/image/spllogo.png"
           alt="Client Logo 4"
           className="h-12 object-contain"
         />
