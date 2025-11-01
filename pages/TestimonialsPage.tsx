@@ -15,19 +15,19 @@ const testimonialsData: Testimonial[] = [
     quote: "Luxefiz gave our consultancy a modern, credible online presence. The website not only looked elegant but also increased our student inquiries by 30%! Their work ethic and creativity truly set them apart.",
     name: "Gokulnath",
     company: "Founder, SVET Consultancy",
-    imageUrl: "image/Testimonial/gokul.png",
+    imageUrl: "image/gokul.png",
   },
   {
     quote: "Luxefiz completely reimagined our university’s online presence. The new design feels modern, easy to navigate, and has greatly improved student engagement. Their attention to detail and understanding of our vision were outstanding!",
     name: "Nehru Group of Institution",
     company: "P K Das University",
-    imageUrl: "image/Testimonial/NGI.png",
+    imageUrl: "image/NGI.png",
   },
   {
     quote: "Luxefiz helped our fashion brand stand out online! Their creative marketing campaigns and aesthetic visuals grew our social media following by 50%. Truly impressed by their strategy and consistency.",
     name: "Ahmed Rashmi",
     company: "Founder, SKRSTA",
-    imageUrl: "image/Testimonial/AR.png",
+    imageUrl: "image/AR.png",
   },
 ];
 

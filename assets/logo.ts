@@ -8,7 +8,7 @@ export const Logo: React.FC<{ className?: string }> = ({ className }) =>
     },
     // Image element (left side)
     React.createElement('img', {
-      src: 'image/own/logo.png', // 🖼️ Update this to your actual image path (e.g., /assets/logo.png)
+      src: 'image/logo.png', // 🖼️ Update this to your actual image path (e.g., /assets/logo.png)
       alt: 'Luxefiz Logo',
       className: 'w-12 h-12 object-contain', // adjust size as needed
     }),

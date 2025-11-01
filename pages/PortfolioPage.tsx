@@ -12,25 +12,25 @@ const portfolioData: PortfolioItem[] = [
     name: 'Website for Educational Consultancy',
     type: 'Web',
     result: 'Boosted inquiries by 30%',
-    imageUrl: 'image/portfolio/SVET.png',
+    imageUrl: 'image/SVET.png',
   },
   {
     name: 'University Website Redesign',
     type: 'Web',
     result: 'Enhanced user experience and engagement',
-    imageUrl: 'image/portfolio/pkdas.png',
+    imageUrl: 'image/pkdas.png',
   },
   {
     name: 'Marketing for Fashion brand',
     type: 'Marketing',
     result: 'Grew social media following by 50%',
-    imageUrl: 'image/portfolio/skrsta.png',
+    imageUrl: 'image/skrsta.png',
   },
   {
     name: 'Saas for Healthcare Management',
     type: 'SaaS',
     result: 'Streamlined operations for 100+ clinics',
-    imageUrl: 'image/portfolio/SPLSaas.png',
+    imageUrl: 'image/SPLSaas.png',
   },
 ];
 
