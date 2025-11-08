@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
               Marketing with Class, Easy on Cash. Luxury-quality digital marketing, web, and SaaS solutions made affordable.
             </p>
             <p className="mt-4 text-gray-400">
-              Contact us: <a href="mailto:luxefiz@gmail.com" className="text-brand-pink hover:underline">luxefiz@gmail.com</a>
+              Contact us: <a href="mailto:info@luxefiz.com" className="text-brand-pink hover:underline">info@luxefiz.com</a>
             </p>
             <span className="text-xs text-gray-400">
             Udyam Registered MSME — UDYAM-TN-25-0049904

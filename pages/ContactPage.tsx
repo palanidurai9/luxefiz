@@ -34,7 +34,7 @@ const Contact: React.FC = () => {
               </svg>
               <div>
                 <h4 className="font-bold">Email Us</h4>
-                <a href="mailto:luxefiz@gmail.com" className="hover:text-brand-purple transition">luxefiz@gmail.com</a>
+                <a href="mailto:info@luxefiz.com" className="hover:text-brand-purple transition">info@luxefiz.com</a>
               </div>
             </div>
 
