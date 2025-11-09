@@ -20,7 +20,9 @@ const Footer: React.FC = () => {
                 </div>
             </Link>
             <p className="mt-4 text-gray-400">
-              Marketing with Class, Easy on Cash. Luxury-quality digital marketing, web, and SaaS solutions made affordable.
+              Marketing with Class, Easy on Cash. 
+              <br />
+              Luxury-quality digital marketing, web, and SaaS solutions made affordable.
             </p>
             <p className="mt-4 text-gray-400">
               Contact us: <a href="mailto:info@luxefiz.com" className="text-brand-pink hover:underline">info@luxefiz.com</a>
