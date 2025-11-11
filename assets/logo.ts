@@ -8,10 +8,13 @@ export const Logo: React.FC<{ className?: string }> = ({ className }) =>
     },
     // Image element (left side)
     React.createElement('img', {
-      src: '/image/luxefiz-logo.png', // 🖼️ Update this to your actual image path (e.g., /assets/logo.png)
-      alt: 'Luxefiz Logo',
-      className: 'w-12 h-12 object-contain', // adjust size as needed
-    }),
+      src: '/image/luxefiz-logo.png',
+      alt: 'Luxefiz Logo - Creative Digital Agency in Tamil Nadu',
+      loading: 'eager', // 👈 change from lazy → eager
+      decoding: 'async', // ⚡ helps rendering faster
+      className: 'w-12 h-12 object-contain',
+    })
+    ,
 
     // Text elements
     React.createElement(
